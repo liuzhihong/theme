@@ -1,0 +1,75 @@
+{
+  "rules": {
+    "market": "2805693002280090995562"
+  },
+  "extends": "index.json",
+  "sections": {
+    "sign-up-and-save": {
+      "type": "sign-up-and-save",
+      "settings": {},
+      "blocks": {
+        "block-1": {
+          "type": "title",
+          "settings": {
+            "title": "Sign up and save 香港市场"
+          },
+          "diff": true,
+          "custom_css": []
+        }
+      }
+    },
+    "1773392370841a483e2e": {
+      "type": "rich-text",
+      "settings": {},
+      "blocks": {
+        "17733923708430af1c2d": {
+          "type": "heading",
+          "settings": {
+            "heading": "heading 香港市场"
+          },
+          "blockId": "17733923708430af1c2d",
+          "custom_css": [],
+          "diff": true
+        }
+      }
+    },
+    "17749515131122e59f9b": {
+      "disabled": false,
+      "type": "text-with-image",
+      "settings": {
+        "title": "Image with text 香港独有",
+        "title_font_size": "title3",
+        "content": "Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.香港独有",
+        "button_text": "Optional button 香港独有",
+        "show_image_line": true,
+        "image_height": "lg",
+        "layout": "title_right",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "button_link": "",
+        "url_1": "",
+        "product_1": "",
+        "url_2": "",
+        "product_2": ""
+      },
+      "blocks": {},
+      "block_order": [],
+      "custom_css": []
+    }
+  },
+  "order": [
+    "featured-slideshow",
+    "collection-list",
+    "featured-collection",
+    "promotional-banner",
+    "combine-shoppable-image",
+    "featured-collection-with-banner",
+    "promotional-banner2",
+    "featured-collection2",
+    "logo-list",
+    "blog",
+    "sign-up-and-save",
+    "1773392370841a483e2e",
+    "17749515131122e59f9b"
+  ]
+}

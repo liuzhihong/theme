@@ -1,0 +1,57 @@
+{
+  "rules": {
+    "market": "2806465085451871011851"
+  },
+  "extends": "product.json",
+  "sections": {
+    "main-product-info": {
+      "type": "main-product",
+      "settings": {},
+      "blocks": {
+        "block_8": {
+          "type": "product_additional",
+          "settings": {
+            "title": "Example titlePDP",
+            "description": "北美 PDP"
+          },
+          "diff": true,
+          "custom_css": []
+        },
+        "block_9": {
+          "type": "product_additional",
+          "settings": {
+            "title": "Example title 北美 PDP",
+            "description": "北美 PDP 2"
+          },
+          "diff": true,
+          "custom_css": []
+        },
+        "17750080851169b8120a": {
+          "type": "text",
+          "settings": {
+            "text_style": "uppercase",
+            "text": "北美 PDP 文本"
+          },
+          "diff": true,
+          "diffType": "all",
+          "custom_css": []
+        }
+      },
+      "block_order": [
+        "block_1",
+        "block_2",
+        "block_3",
+        "block_4",
+        "block_5",
+        "block_6",
+        "block_7",
+        "block_8",
+        "block_9",
+        "block_10",
+        "block_11",
+        "block_12",
+        "17750080851169b8120a"
+      ]
+    }
+  }
+}

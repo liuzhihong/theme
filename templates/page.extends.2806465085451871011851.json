@@ -1,0 +1,6 @@
+{
+  "rules": {
+    "market": "2806465085451871011851"
+  },
+  "extends": "page.json"
+}

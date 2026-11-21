@@ -1,0 +1,105 @@
+{
+  "rules": {
+    "market": "2806465085451871011851"
+  },
+  "extends": "index.json",
+  "sections": {
+    "1773392370841a483e2e": {
+      "type": "rich-text",
+      "settings": {},
+      "blocks": {
+        "17733923708430af1c2d": {
+          "type": "heading",
+          "settings": {
+            "heading": "heading北美市场"
+          },
+          "blockId": "17733923708430af1c2d",
+          "custom_css": [],
+          "diff": true
+        }
+      }
+    },
+    "17749516429586a7c8f3": {
+      "disabled": false,
+      "type": "collapsible-content",
+      "settings": {
+        "heading": "Collapsible content 北美独有",
+        "heading_size": "title3",
+        "heading_alignment": "center",
+        "layout_style": "none",
+        "color_scheme": "none",
+        "open_first_collapsible_row": false,
+        "image": {},
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "background_color": "rgba(0,0,0,0)"
+      },
+      "blocks": {
+        "17749516429592c2d87c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row 北美",
+            "icon": "check_mark",
+            "row_content": "",
+            "icon_width": 16,
+            "page": "",
+            "upload_icon": "shopline://shop_images/SD_OPENAPI7431783989176700598.png"
+          },
+          "blockId": "17749516429592c2d87c",
+          "diff": true,
+          "custom_css": []
+        },
+        "1774951642960a3b4f6e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "icon_width": 16,
+            "page": ""
+          },
+          "blockId": "1774951642960a3b4f6e"
+        },
+        "1774951642960a53b642": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "icon_width": 16,
+            "page": ""
+          },
+          "blockId": "1774951642960a53b642"
+        },
+        "1774951642960530e6e5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "icon_width": 16,
+            "page": ""
+          },
+          "blockId": "1774951642960530e6e5"
+        }
+      },
+      "block_order": [
+        "17749516429592c2d87c",
+        "1774951642960a3b4f6e",
+        "1774951642960a53b642",
+        "1774951642960530e6e5"
+      ],
+      "custom_css": []
+    }
+  },
+  "order": [
+    "featured-slideshow",
+    "featured-collection",
+    "combine-shoppable-image",
+    "featured-collection-with-banner",
+    "1773392370841a483e2e",
+    "17749516429586a7c8f3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "rules": {
+    "market": "2807346510574056947025"
+  },
+  "extends": "index.json",
+  "sections": {
+    "1773392370841a483e2e": {
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "right"
+      },
+      "blocks": {}
+    }
+  }
+}

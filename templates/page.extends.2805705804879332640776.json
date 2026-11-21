@@ -1,0 +1,61 @@
+{
+  "rules": {
+    "market": "2805705804879332640776"
+  },
+  "extends": "page.json",
+  "sections": {
+    "177500802651858193d3": {
+      "disabled": false,
+      "type": "rich-text",
+      "settings": {
+        "desktop_content_position": "center",
+        "color_scheme": "2",
+        "normal_width": true,
+        "show_decoration": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      },
+      "blocks": {
+        "1775008027776b7cc99c": {
+          "type": "heading",
+          "settings": {
+            "heading": "heading 西班牙自定义页面",
+            "heading_size": "title3"
+          },
+          "blockId": "1775008027776b7cc99c",
+          "diff": true,
+          "custom_css": []
+        },
+        "1775008027776e67e1de": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A sentence or two introducing your brand, what you sell, and what makes your brand compelling to customers.</p>"
+          },
+          "blockId": "1775008027776e67e1de"
+        },
+        "1775008027777624ddd5": {
+          "type": "button",
+          "settings": {
+            "button_text": "Button",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_text_2": "Button 2",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          },
+          "blockId": "1775008027777624ddd5"
+        }
+      },
+      "block_order": [
+        "1775008027776b7cc99c",
+        "1775008027776e67e1de",
+        "1775008027777624ddd5"
+      ],
+      "custom_css": []
+    }
+  },
+  "order": [
+    "main",
+    "177500802651858193d3"
+  ]
+}
